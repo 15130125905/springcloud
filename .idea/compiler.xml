@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-itic-service" />
+        <module name="spring-cloud-itic-dashboard" />
+        <module name="spring-cloud-itic-eureka" />
+        <module name="spring-cloud-itic-zipkin" />
+        <module name="spring-cloud-itic-zuul" />
+        <module name="spring-cloud-itic-admin" />
+        <module name="spring-cloud-itic-config" />
+        <module name="spring-cloud-itic-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-dependencies" target="1.6" />
+      <module name="spring-cloud-eureka" target="1.6" />
+      <module name="spring-cloud-itic-admin" target="1.6" />
+      <module name="spring-cloud-itic-config" target="1.6" />
+      <module name="spring-cloud-itic-dashboard" target="1.6" />
+      <module name="spring-cloud-itic-dependencies" target="1.6" />
+      <module name="spring-cloud-itic-eureka" target="1.6" />
+      <module name="spring-cloud-itic-feign" target="1.6" />
+      <module name="spring-cloud-itic-service" target="1.6" />
+      <module name="spring-cloud-itic-service (1)" target="1.6" />
+      <module name="spring-cloud-itic-zipkin" target="1.6" />
+      <module name="spring-cloud-itic-zuul" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-cloud-eureka" options="-parameters" />
+      <module name="spring-cloud-itic-admin" options="-parameters" />
+      <module name="spring-cloud-itic-config" options="-parameters" />
+      <module name="spring-cloud-itic-dashboard" options="-parameters" />
+      <module name="spring-cloud-itic-eureka" options="-parameters" />
+      <module name="spring-cloud-itic-feign" options="-parameters" />
+      <module name="spring-cloud-itic-service" options="-parameters" />
+      <module name="spring-cloud-itic-service (1)" options="-parameters" />
+      <module name="spring-cloud-itic-zipkin" options="-parameters" />
+      <module name="spring-cloud-itic-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+com\spring\cloud\itic\zipkin\ZuulApplication.class
+com\spring\cloud\itic\zipkin\config\HystrixDashboardConfiguration.class
+com\spring\cloud\itic\zipkin\filter\MyFilter.class

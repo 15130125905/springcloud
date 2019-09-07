@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-itic.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-itic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-admin/spring-cloud-itic-admin.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-admin/spring-cloud-itic-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-config/spring-cloud-itic-config.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-config/spring-cloud-itic-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-dashboard/spring-cloud-itic-dashboard.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-dashboard/spring-cloud-itic-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-dependencies/spring-cloud-itic-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-dependencies/spring-cloud-itic-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-eureka/spring-cloud-itic-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-eureka/spring-cloud-itic-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-feign/spring-cloud-itic-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-feign/spring-cloud-itic-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-service/spring-cloud-itic-service.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-service/spring-cloud-itic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-zipkin/spring-cloud-itic-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-zipkin/spring-cloud-itic-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itic-zuul/spring-cloud-itic-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-itic-zuul/spring-cloud-itic-zuul.iml" />
+    </modules>
+  </component>
+</project>

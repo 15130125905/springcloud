@@ -1,0 +1,5 @@
+com\spring\cloud\itic\feign\service\SchedualServiceHiHystric.class
+com\spring\cloud\itic\feign\config\HystrixDashboardConfiguration.class
+com\spring\cloud\itic\feign\FeginApplication.class
+com\spring\cloud\itic\feign\service\SchedualServiceHi.class
+com\spring\cloud\itic\feign\controller\HiController.class
